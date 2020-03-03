@@ -17,6 +17,7 @@ A curated list of useful resources for building large projects in laravel.
 
 * [Laravel beyond CRUD](https://stitcher.io/blog/laravel-beyond-crud)
 * [Matt Stauffer: “Is Laravel Enterprise-Ready?”](https://laraveldaily.com/matt-stauffer-laravel-enterprise-ready)
+* [Refactoring to actions](https://freek.dev/1371-refactoring-to-actions)
 
 ## Patterns
 
