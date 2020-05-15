@@ -4,15 +4,15 @@ A curated list of useful resources for building large projects in laravel.
 
 ## Table of Contents
 
-  - [Starter Projects](#starter-projects)
-  - [Tutorials & Blogs](#tutorials--blogs)
-  - [Patterns](#patterns)
-  - [Packages](#packages)
+  * [Starter Projects](#starter-projects)
+  * [Tutorials & Blogs](#tutorials--blogs)
+  * [Patterns](#patterns)
+  * [Packages](#packages)
   
 ## Starter Projects
 
 * [Apiato](https://github.com/apiato/apiato)
-- [Laravel large project](https://github.com/stasyanko/laravel-large-project)
+* [Laravel large project](https://github.com/stasyanko/laravel-large-project)
 
 ## Tutorials & Blogs
 
